@@ -1,0 +1,31 @@
+# Directed graph (each unordered pair of nodes is saved once): CA-GrQc.txt 
+# Collaboration network of Arxiv General Relativity category (there is an edge if authors coauthored at least one paper)
+# Nodes: 11 Edges: 0
+# FromNodeId	ToNodeId
+3466	10310
+3466	16470
+3466	5052
+3466	18648
+10310	18648
+10310	3466
+10310	10243
+5052	3466
+5052	19738
+5052	5346
+5052	17822
+5346	5052
+15159	10243
+10243	15159
+10243	10310
+18648	3466
+18648	10310
+16470	17822
+16470	3466
+17822	16470
+17822	5052
+14265	3466
+14265	5052
+19738	5346
+19738	5052
+19738	14265
+19738	10243
